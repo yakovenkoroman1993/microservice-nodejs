@@ -1,0 +1,10 @@
+version: '3.1'
+services:
+  token:
+    build: .
+    image: prevalent/token-service
+    environment:
+      - TOKEN_SERVICE_HOST=0.0.0.0
+      - SWAGGER_URL=localhost:3000
+    ports:
+      - 3000:3000

@@ -1,0 +1,9 @@
+{
+  "type": "object",
+  "properties": {
+    "ids": {
+      "type": "array"
+    }
+  },
+  "required": ["ids"]
+}

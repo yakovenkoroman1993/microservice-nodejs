@@ -1,0 +1,15 @@
+{
+  "server": {
+    "host": "TOKEN_SERVICE_HOST",
+    "port": "TOKEN_SERVICE_PORT",
+    "prefix": "TOKEN_SERVICE_PREFIX"
+  },
+  "swagger": {
+    "host": "SWAGGER_URL",
+    "documentationPath": "SWAGGER_DOCUMENTATION_PATH",
+    "info": {
+      "title": "SWAGGER_TITLE",
+      "version": "SWAGGER_VERSION"
+    }
+  }
+}

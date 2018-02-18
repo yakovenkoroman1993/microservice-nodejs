@@ -1,0 +1,14 @@
+{
+  "server": {
+    "host": "localhost",
+    "port": 3000,
+    "prefix": "/api/v1"
+  },
+  "swagger": {
+    "documentationPath": "/swagger",
+    "info": {
+      "title": "Test API Documentation for Micro Service",
+      "version": "1.0.0"
+    }
+  }
+}
